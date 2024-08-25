@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## instructions to run the application
+
+    - after clone the application need to add GitHub_token to UserList.tsx file line 13.
+    - install node js from https://nodejs.org/en if you don't have nodejs installed
+    - install dependencies by using the following command "npm install"
+    - install material UI using "npm install @mui/material @emotion/react @emotion/styled"
+    - after the installation go projects directory in this case users-app and run command "npm start"
+
+- How to get GitHub_token :
+  1 login to github
+  2 got to Settings
+  3 got Developer Settings
+  4 selected Personal access tokens
+  5 selected Tokens and click generate new token(classic)
+  ================================================================
+
 ## Available Scripts
 
 In the project directory, you can run:
