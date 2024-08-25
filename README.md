@@ -10,13 +10,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - install material UI using "npm install @mui/material @emotion/react @emotion/styled"
     - after the installation go projects directory in this case users-app and run command "npm start"
 
-- How to get GitHub_token :
-  1 login to github
-  2 got to Settings
-  3 got Developer Settings
-  4 selected Personal access tokens
-  5 selected Tokens and click generate new token(classic)
-  ================================================================
+## How to get GitHub_token :
+
+    1 login to github
+    2 got to Settings
+    3 got Developer Settings
+    4 selected Personal access tokens
+    5 selected Tokens and click generate new token(classic)
+
+================================================================
 
 ## Available Scripts
 
